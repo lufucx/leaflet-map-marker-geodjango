@@ -29,7 +29,7 @@ Clone the repository, and don't forget to start your virtualenv.
 
 In the localhost, goes to /markers/map and see your map.
 
-In the terminal, create a superuser to log into the Django admin site and add, edit, and delete bookmarks.
+In the terminal, create a superuser to log into the Django admin site and add, edit, and delete markers.
 ```
   python ./manage.py createsuperuser
 ```
