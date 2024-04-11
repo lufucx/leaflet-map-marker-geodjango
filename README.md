@@ -6,7 +6,7 @@ The database used in the project is PostgreSQL with the PostGIS extension.
 
 ## It's part of the WebGIS work I do. Still in development.
 
-###Installation 
+### Installation 
 Clone the repository, and don't forget to start your virtualenv.
 ```
     python3 -m venv venv
