@@ -12,20 +12,20 @@ Clone the repository, and don't forget to start your virtualenv.
     python3 -m venv venv
 ```
 
-###To run virtualenv:
+### To run virtualenv:
 ```
     source /venv/bin/activate
 ```
-###Install dependencies.
+### Install dependencies.
 ```
     pip install -r requirements.txt
 ```
 
-###Running the project. Change directory to ./geodjango
+### Running the project. Change directory to ./geodjango
 ```
     python ./manage.py runserver
 ```
-###Remeber to change in the settings.py of the project the database connection fields to suit your use.
+### Remeber to change in the settings.py of the project the database connection fields to suit your use.
 
 In the localhost, goes to /markers/map and see your map.
 
